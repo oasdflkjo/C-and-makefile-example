@@ -1,6 +1,6 @@
 /****************************************************************************
     Created by: Petri Pihla
-    Created on: 3.3.2020
+    Created on: 3.3.2022
 
     A simple program that uses the functions defined in my_strings.h
 

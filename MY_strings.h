@@ -1,6 +1,6 @@
 /****************************************************************************
     Created by: Petri Pihla
-    Created on: 3.3.2020
+    Created on: 3.3.2022
 
     Doxygen-style comments are used for documentation.
     At this level of coding it's a bit overkill, but it is a demonstration.
